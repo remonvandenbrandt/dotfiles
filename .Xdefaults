@@ -55,31 +55,29 @@ URxvt.cursorUnderline: false
 URxvt.pointerBlank: true
 
 
+! Base16 Tomorrow
+! Scheme: Chris Kempson (http://chriskempson.com)
 
-! Jellybeans Terminal Colours
-urxvt.background: #151515
+
 urxvt.foreground: #ffffff
-! black
-urxvt.color0: #888888
-urxvt.color8: #525252
-! red
-urxvt.color1: #cf6a4c
-urxvt.color9: #ff9d80
-! green
-urxvt.color2: #99ad6a
-urxvt.color10: #c3e6ad
-! yellow
-urxvt.color3: #fad07a
-urxvt.color11: #ffefbf
-! blue
-urxvt.color4: #8197bf
-urxvt.color12: #accaff
-! magenta
-urxvt.color5: #8787af
-urxvt.color13: #c4c4ff
-! cyan
-urxvt.color6: #8fbfdc
-urxvt.color14: #80bfaf
-! white
-urxvt.color7: #888888
-urxvt.color15: #e8e8d3
+urxvt.background: #151515
+!urxvt.cursorColor: #c5c8c6
+!urxvt.color0: #1d1f21
+!urxvt.color1: #cc6666
+!urxvt.color2: #b5bd68
+!urxvt.color3: #f0c674
+!!urxvt.color4: #81a2be
+!urxvt.color5: #b294bb
+!urxvt.color6: #8abeb7
+!urxvt.color7: #c5c8c6
+!urxvt.color8: #969896
+!urxvt.color9: #de935f
+!urxvt.color10: #282a2e
+!urxvt.color11: #373b41
+!!urxvt.color12: #b4b7b4
+!urxvt.color13: #e0e0e0
+!urxvt.color14: #a3685a
+!urxvt.color15: #ffffff
+!
+!urxvt.color4: #8197bf
+!urxvt.color12: #accaff
