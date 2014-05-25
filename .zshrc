@@ -2,7 +2,7 @@
 export ZSH=/usr/share/oh-my-zsh
 
 # Set name of the theme to load.
-ZSH_THEME="gnzh"
+ZSH_THEME="blinks"
 
 # aliases
 alias zshconfig="subl ~/.zshrc"
