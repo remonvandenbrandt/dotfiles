@@ -1,13 +1,12 @@
+Xft.hinting: 1
+Xft.hintstyle: hintfull
+Xft.antialias: 0
+Xft.dpi: 96
+
+
+
+
 ! URxvt*rxvt-unicode (urxvt) v9.20 - released: 2014-04-26
-
-! URxvt.termName:    	rxvt
-! URxvt.background:   #000000
-! URxvt.foreground:   #cccccc
-! URxvt.scrollBar: 	false
-! URxvt.geometry: 	105x24
-! 
-! URxvt.urlLauncher: firefox
-
 !-------------------------------------------------------------------------------
 ! Xft settings
 !-------------------------------------------------------------------------------
@@ -55,37 +54,32 @@ URxvt.cursorUnderline: false
 ! Pointer
 URxvt.pointerBlank: true
 
-URxvt*foreground: #d1c3b8
-URxvt*background: #2e2c28
 
+
+! Jellybeans Terminal Colours
+urxvt.background: #151515
+urxvt.foreground: #ffffff
 ! black
- *color0:  #717370
- *color8:  #2e2c28
-!
-! ! red
- *color1:  #8c735a
- *color9:  #998a7a
-!
-! ! green
- *color2:  #aec495
- *color10: #b4cc99
-!
-! ! yellow
- *color3:  #bfbb99
- *color11: #e6e3ca
-!
-! ! blue
- *color4:  #88a1ba
- *color12: #88a1ba
-!
-! ! magenta
- *color5:  #6d6871
- *color13: #948d99
-!
-! ! cyan
- *color6:  #5c5346
- *color14: #7a8735
-!
-! ! white
- *color7:  #c8b972
- *color15: #e4dd96
+urxvt.color0: #888888
+urxvt.color8: #525252
+! red
+urxvt.color1: #cf6a4c
+urxvt.color9: #ff9d80
+! green
+urxvt.color2: #99ad6a
+urxvt.color10: #c3e6ad
+! yellow
+urxvt.color3: #fad07a
+urxvt.color11: #ffefbf
+! blue
+urxvt.color4: #8197bf
+urxvt.color12: #accaff
+! magenta
+urxvt.color5: #8787af
+urxvt.color13: #c4c4ff
+! cyan
+urxvt.color6: #8fbfdc
+urxvt.color14: #80bfaf
+! white
+urxvt.color7: #888888
+urxvt.color15: #e8e8d3
