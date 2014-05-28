@@ -7,6 +7,4 @@ Installation
 -----------
     # pacman -S zsh
     # pacman -S rxvt-unicode
-    # yourt -S oh-my-zsh-git
-
-
+    # yaourt -S oh-my-zsh-git
